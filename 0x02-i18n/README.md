@@ -1,4 +1,6 @@
-# 0x02. i18nObjective
+# 0x02. i18n
+
+## Objective
 The project aims to implement internationalization (i18n) in a Flask web application, enabling it to support multiple languages and display localized content based on user preferences. This involves setting up a basic Flask app, integrating the Flask-Babel extension for language translation, and handling user-specific settings like preferred language and time zone.
 
 
